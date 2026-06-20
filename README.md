@@ -62,4 +62,4 @@ I build scalable backend services, real-time systems, and cloud-native applicati
 
 ---
 
-*Based in Hyderabad, India · Open to SDE-2 roles · Immediate joiner*
+*Based in Hyderabad, India*

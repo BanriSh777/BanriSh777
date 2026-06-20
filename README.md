@@ -48,7 +48,7 @@ I build scalable backend services, real-time systems, and cloud-native applicati
 ### 📈 Experience Highlights
 
 - **JPMorgan Chase** — Software Engineer II, loyalty platform microservices on AWS
-- **Entain (FTSE-100)** — SDE1, real-time Angular features for a platform serving **11M+ daily users**
+- **Entain (FTSE-100)** — SDE1, real-time Angular features for an online-gaming platform serving **11M+ daily users**
 - Delivered **34+ user stories**, resolved **260+ bugs**, improved platform reliability by **30%+**
 - Built real-time bet tracking with SignalR → **46% engagement uplift**
 
